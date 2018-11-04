@@ -1,0 +1,16 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "gitlab"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  "exception-reporting":
+    userId: "ac68327a-a401-151b-484e-1432e4a31af6"
+  welcome:
+    showOnStartup: false
