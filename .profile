@@ -5,6 +5,7 @@ alias cis9650='cd ~/Dropbox/Baruch/"CIS 9650 Programming for Analytics"'
 alias projects='cd ~/Dropbox/Projects/'
 alias code='cd ~/Dropbox/Projects/'
 alias ca-html='cd ~/Dropbox/Projects/Codeacademy\ HTML\ Intensive/'
+alias ca-js='cd ~/Dropbox/Projects/Codeacademy\ Front\ End\ Apps\ Intensive/'
 
 
 export CLICOLOR=1
