@@ -22,3 +22,5 @@ alias vimgo='vim -u ~/.vimrc.go'
 alias restart.finder="killall Finder /System/Library/CoreServices/Finder.app"
 alias show.files="defaults write com.apple.finder AppleShowAllFiles YES;restart.finder"
 alias hide.files="defaults write com.apple.finder AppleShowAllFiles NO;restart.finder"
+alias fix.finder='/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain user;killall Finder;echo "Open With has been rebuilt, Finder will relaunch"'
+
